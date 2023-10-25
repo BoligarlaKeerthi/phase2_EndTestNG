@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-25T10:56:28 IST" name="StarHealthTest" finished-at="2023-10-25T10:57:42 IST" duration-ms="74282">
+    <groups>
+    </groups>
+    <test started-at="2023-10-25T10:56:28 IST" name="starhealth001" finished-at="2023-10-25T10:57:28 IST" duration-ms="59794">
+      <class name="testpages.StarHealthPageTest">
+        <test-method is-config="true" signature="Open_Browser(org.testng.ITestContext)[pri:0, instance:testpages.StarHealthPageTest@1750fbeb]" started-at="2023-10-25T10:56:28 IST" name="Open_Browser" finished-at="2023-10-25T10:56:35 IST" duration-ms="7303" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@63e4484d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_Browser -->
+        <test-method signature="Validate_Alt_Value_Of_Logo()[pri:1, instance:testpages.StarHealthPageTest@1750fbeb]" started-at="2023-10-25T10:56:35 IST" name="Validate_Alt_Value_Of_Logo" finished-at="2023-10-25T10:56:44 IST" duration-ms="8199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Alt_Value_Of_Logo -->
+        <test-method is-config="true" signature="generateTestStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:testpages.StarHealthPageTest@1750fbeb]" started-at="2023-10-25T10:56:44 IST" name="generateTestStatus" finished-at="2023-10-25T10:56:44 IST" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testpages.StarHealthPageTest.Validate_Alt_Value_Of_Logo() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Validate_Alt_Value_Of_Logo status=SUCCESS method=StarHealthPageTest.Validate_Alt_Value_Of_Logo()[pri:1, instance:testpages.StarHealthPageTest@1750fbeb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateTestStatus -->
+        <test-method signature="click_on_plans()[pri:2, instance:testpages.StarHealthPageTest@1750fbeb]" started-at="2023-10-25T10:56:44 IST" name="click_on_plans" finished-at="2023-10-25T10:56:49 IST" duration-ms="5058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_plans -->
+        <test-method is-config="true" signature="generateTestStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:testpages.StarHealthPageTest@1750fbeb]" started-at="2023-10-25T10:56:49 IST" name="generateTestStatus" finished-at="2023-10-25T10:56:49 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testpages.StarHealthPageTest.click_on_plans() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=click_on_plans status=SUCCESS method=StarHealthPageTest.click_on_plans()[pri:2, instance:testpages.StarHealthPageTest@1750fbeb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateTestStatus -->
+        <test-method signature="GetAQuoate(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:testpages.StarHealthPageTest@1750fbeb]" started-at="2023-10-25T10:56:49 IST" name="GetAQuoate" finished-at="2023-10-25T10:56:55 IST" duration-ms="6791" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[keerthi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7888943222]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[788877]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAQuoate -->
+        <test-method is-config="true" signature="generateTestStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:testpages.StarHealthPageTest@1750fbeb]" started-at="2023-10-25T10:56:56 IST" name="generateTestStatus" finished-at="2023-10-25T10:56:56 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testpages.StarHealthPageTest.GetAQuoate(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=GetAQuoate status=SUCCESS method=StarHealthPageTest.GetAQuoate(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:testpages.StarHealthPageTest@1750fbeb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateTestStatus -->
+        <test-method signature="Input_Authorize_Form(java.lang.String)[pri:4, instance:testpages.StarHealthPageTest@1750fbeb]" started-at="2023-10-25T10:56:56 IST" name="Input_Authorize_Form" finished-at="2023-10-25T10:57:02 IST" duration-ms="6186" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[keerthi@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Input_Authorize_Form -->
+        <test-method is-config="true" signature="generateTestStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:testpages.StarHealthPageTest@1750fbeb]" started-at="2023-10-25T10:57:02 IST" name="generateTestStatus" finished-at="2023-10-25T10:57:02 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testpages.StarHealthPageTest.Input_Authorize_Form(java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Input_Authorize_Form status=SUCCESS method=StarHealthPageTest.Input_Authorize_Form(java.lang.String)[pri:4, instance:testpages.StarHealthPageTest@1750fbeb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateTestStatus -->
+        <test-method signature="Get_Value(java.lang.String,java.lang.String)[pri:5, instance:testpages.StarHealthPageTest@1750fbeb]" started-at="2023-10-25T10:57:03 IST" name="Get_Value" data-provider="testdata" finished-at="2023-10-25T10:57:06 IST" duration-ms="3125" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[keerthi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[keerthi@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_Value -->
+        <test-method is-config="true" signature="generateTestStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:testpages.StarHealthPageTest@1750fbeb]" started-at="2023-10-25T10:57:06 IST" name="generateTestStatus" finished-at="2023-10-25T10:57:06 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testpages.StarHealthPageTest.Get_Value(java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Get_Value status=SUCCESS method=StarHealthPageTest.Get_Value(java.lang.String,java.lang.String)[pri:5, instance:testpages.StarHealthPageTest@1750fbeb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateTestStatus -->
+        <test-method signature="clickontwitter()[pri:6, instance:testpages.StarHealthPageTest@1750fbeb]" started-at="2023-10-25T10:57:06 IST" name="clickontwitter" finished-at="2023-10-25T10:57:06 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickontwitter -->
+        <test-method is-config="true" signature="generateTestStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:testpages.StarHealthPageTest@1750fbeb]" started-at="2023-10-25T10:57:06 IST" name="generateTestStatus" finished-at="2023-10-25T10:57:06 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testpages.StarHealthPageTest.clickontwitter()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=clickontwitter status=SUCCESS method=StarHealthPageTest.clickontwitter()[pri:6, instance:testpages.StarHealthPageTest@1750fbeb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateTestStatus -->
+        <test-method signature="validatetwitter()[pri:7, instance:testpages.StarHealthPageTest@1750fbeb]" started-at="2023-10-25T10:57:06 IST" name="validatetwitter" finished-at="2023-10-25T10:57:26 IST" duration-ms="19736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatetwitter -->
+        <test-method is-config="true" signature="generateTestStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:testpages.StarHealthPageTest@1750fbeb]" started-at="2023-10-25T10:57:26 IST" name="generateTestStatus" finished-at="2023-10-25T10:57:26 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testpages.StarHealthPageTest.validatetwitter()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=validatetwitter status=SUCCESS method=StarHealthPageTest.validatetwitter()[pri:7, instance:testpages.StarHealthPageTest@1750fbeb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateTestStatus -->
+        <test-method is-config="true" signature="close_Browser()[pri:0, instance:testpages.StarHealthPageTest@1750fbeb]" started-at="2023-10-25T10:57:26 IST" name="close_Browser" finished-at="2023-10-25T10:57:28 IST" duration-ms="2219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Browser -->
+      </class> <!-- testpages.StarHealthPageTest -->
+    </test> <!-- starhealth001 -->
+    <test started-at="2023-10-25T10:57:28 IST" name="starhealth002" finished-at="2023-10-25T10:57:42 IST" duration-ms="14416">
+      <class name="testpages.StarHealthPageTest2">
+        <test-method is-config="true" signature="InitalizeExtentReport()[pri:0, instance:testpages.StarHealthPageTest2@6f01b95f]" started-at="2023-10-25T10:56:27 IST" name="InitalizeExtentReport" finished-at="2023-10-25T10:56:28 IST" duration-ms="566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitalizeExtentReport -->
+        <test-method is-config="true" signature="Open_Browser(org.testng.ITestContext)[pri:0, instance:testpages.StarHealthPageTest2@6f01b95f]" started-at="2023-10-25T10:57:28 IST" name="Open_Browser" finished-at="2023-10-25T10:57:33 IST" duration-ms="4974" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6a5dd083]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_Browser -->
+        <test-method signature="fetch_All_Link()[pri:0, instance:testpages.StarHealthPageTest2@6f01b95f]" started-at="2023-10-25T10:57:33 IST" name="fetch_All_Link" finished-at="2023-10-25T10:57:40 IST" duration-ms="7185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetch_All_Link -->
+        <test-method is-config="true" signature="generateTestStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:testpages.StarHealthPageTest2@6f01b95f]" started-at="2023-10-25T10:57:40 IST" name="generateTestStatus" finished-at="2023-10-25T10:57:40 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testpages.StarHealthPageTest2.fetch_All_Link() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=fetch_All_Link status=SUCCESS method=StarHealthPageTest2.fetch_All_Link()[pri:0, instance:testpages.StarHealthPageTest2@6f01b95f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateTestStatus -->
+        <test-method is-config="true" signature="close_Browser()[pri:0, instance:testpages.StarHealthPageTest2@6f01b95f]" started-at="2023-10-25T10:57:40 IST" name="close_Browser" finished-at="2023-10-25T10:57:42 IST" duration-ms="2248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Browser -->
+        <test-method is-config="true" signature="generateReports()[pri:0, instance:testpages.StarHealthPageTest2@6f01b95f]" started-at="2023-10-25T10:57:42 IST" name="generateReports" finished-at="2023-10-25T10:57:43 IST" duration-ms="1134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReports -->
+      </class> <!-- testpages.StarHealthPageTest2 -->
+    </test> <!-- starhealth002 -->
+  </suite> <!-- StarHealthTest -->
+</testng-results>
